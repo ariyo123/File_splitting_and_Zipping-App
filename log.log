@@ -1,0 +1,649 @@
+2021-12-19 10:57:33,592 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 10:57:33,594 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,596 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,598 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,601 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,604 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,606 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,609 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 10:57:33,612 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,614 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,617 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,620 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,622 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,625 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,628 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 10:57:33,631 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,633 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,636 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,638 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,640 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,642 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,644 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank
+2021-12-19 10:57:33,646 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited is being prepared for zipping
+2021-12-19 10:57:33,656 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 10:57:33,657 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank is being prepared for zipping
+2021-12-19 10:57:33,667 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 10:57:33,667 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank is being prepared for zipping
+2021-12-19 10:57:33,677 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 10:57:33,684 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 10:57:33,691 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 10:57:33,698 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 11:53:47,367 - name 
+3line Card management Limited_20211217_155959
+9 Payment Service Bank_20211217_155959
+AB Microfinance bank_20211217_155959
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 11:54:26,463 - name 
+3line Card management Limited_20211217_155959
+9 Payment Service Bank_20211217_155959
+AB Microfinance bank_20211217_155959
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 11:55:54,919 - name 
+3line Card management Limited_20211217_155959
+9 Payment Service Bank_20211217_155959
+AB Microfinance bank_20211217_155959
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 11:56:38,063 - name 
+3line Card management Limited_20211202_155959
+9 Payment Service Bank_20211202_155959
+AB Microfinance bank_20211202_155959
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 11:56:38,067 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 11:56:38,080 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 11:56:38,084 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 11:59:44,487 - name 
+3line Card management Limited_20211202_155959
+9 Payment Service Bank_20211202_155959
+AB Microfinance bank_20211202_155959
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 11:59:44,491 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 11:59:44,495 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 11:59:44,498 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 12:02:42,191 - name 
+3line Card management Limited_20211202
+9 Payment Service Bank_20211202
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:02:42,195 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:02:42,199 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:02:42,251 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:04:34,991 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:04:34,996 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:34,998 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,001 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,003 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,006 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,008 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,011 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:04:35,038 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,060 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,063 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,065 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,068 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,070 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,072 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:04:35,075 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:13:37,855 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:15:58,639 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:15:58,643 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:16:17,126 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:16:17,131 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,967 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:17:37,973 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,975 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,978 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,980 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,982 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,985 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,987 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited
+2021-12-19 12:17:37,991 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,032 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,034 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,036 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,038 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,039 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,041 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank
+2021-12-19 12:17:38,044 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:17:38,048 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,051 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,054 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,057 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,059 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,063 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,066 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,069 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,071 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,073 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,075 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,079 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,082 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,086 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,088 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,091 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,094 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,096 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,099 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,102 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,118 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//
+2021-12-19 12:17:38,119 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited is being prepared for zipping
+2021-12-19 12:18:54,839 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank_20211202
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:18:54,842 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,845 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,847 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,850 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,852 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,855 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,858 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:18:54,862 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,865 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,867 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,869 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,872 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,875 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,877 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:18:54,880 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_2021120220211202
+2021-12-19 12:18:54,883 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,885 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,889 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,891 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,894 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,896 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,898 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,900 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,903 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,906 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,909 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,923 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,925 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,928 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,930 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,932 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,935 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,937 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,939 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,942 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,944 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:18:54,945 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited is being prepared for zipping
+2021-12-19 12:19:33,238 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:19:33,242 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,245 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,248 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,250 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,255 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,257 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,260 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:19:33,263 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,266 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,270 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,273 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,275 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,278 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,280 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:19:33,284 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,287 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,290 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,292 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,295 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,298 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,302 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:19:33,305 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,308 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,311 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,314 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,316 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,320 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,322 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,325 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,327 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,330 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,333 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,336 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,338 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,341 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,343 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,347 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,349 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,352 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,367 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,370 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,373 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:19:33,374 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited is being prepared for zipping
+2021-12-19 12:20:45,639 - name 
+3line Card management Limited
+9 Payment Service Bank
+AB Microfinance bank
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:20:45,642 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,645 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,647 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,650 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,652 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,655 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,658 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited20211202
+2021-12-19 12:20:45,662 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,665 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,668 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,670 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,673 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,677 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,679 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank20211202
+2021-12-19 12:20:45,682 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,684 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,687 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,690 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,693 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,696 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,698 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank20211202
+2021-12-19 12:20:45,702 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,706 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,708 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,711 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,713 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,715 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,717 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,719 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,722 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,724 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,727 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,729 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,731 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,733 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,737 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,739 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,742 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,744 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,746 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,748 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,751 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:20:45,752 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited20211202 is being prepared for zipping
+2021-12-19 12:20:45,763 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 12:20:45,763 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank20211202 is being prepared for zipping
+2021-12-19 12:20:45,782 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:20:45,782 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank20211202 is being prepared for zipping
+2021-12-19 12:20:45,794 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:20:45,795 - The files patterns: C://python_work//folder_zip//output//20211202 is being prepared for zipping
+2021-12-19 12:20:45,852 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip', '9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip', 'AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:20:45,860 - The files patterns: C:/python_work/folder_zip/output\20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:20:45,863 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:20:45,867 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:20:45,869 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:21:51,015 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 12:21:51,018 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,021 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,024 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,026 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,028 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,031 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,034 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 12:21:51,038 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,040 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,043 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,045 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,047 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,052 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,055 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 12:21:51,057 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,060 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,061 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,063 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,066 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,069 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,071 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 12:21:51,074 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,076 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,078 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,083 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,085 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,088 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,089 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,091 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,093 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,095 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,099 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,101 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,104 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,106 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,108 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,110 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,112 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,115 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,117 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,119 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,121 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 12:21:51,122 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202 is being prepared for zipping
+2021-12-19 12:21:51,132 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 12:21:51,132 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank_20211202 is being prepared for zipping
+2021-12-19 12:21:51,141 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:21:51,141 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank_20211202 is being prepared for zipping
+2021-12-19 12:21:51,152 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:21:51,152 - The files patterns: C://python_work//folder_zip//output//20211202 is being prepared for zipping
+2021-12-19 12:21:51,173 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip', '9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip', 'AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 12:21:51,177 - The files patterns: C:/python_work/folder_zip/output\20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:21:51,179 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:21:51,181 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 12:21:51,194 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:12:48,878 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:13:14,639 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:13:14,642 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,646 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,648 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,650 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,653 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,656 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,658 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:13:14,662 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,664 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,667 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,670 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,672 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,675 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,677 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:13:14,679 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,682 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,685 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,687 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,690 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,692 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,694 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:13:14,697 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,701 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,703 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,706 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,708 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,711 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,713 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,716 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,718 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,721 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,723 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,726 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,729 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,765 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,769 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,772 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,774 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,777 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,782 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,784 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,787 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:13:14,787 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202 is being prepared for zipping
+2021-12-19 13:13:14,798 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 13:13:14,798 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank_20211202 is being prepared for zipping
+2021-12-19 13:13:14,808 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:13:14,808 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank_20211202 is being prepared for zipping
+2021-12-19 13:13:14,820 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:13:14,820 - The files patterns: C://python_work//folder_zip//output//20211202 is being prepared for zipping
+2021-12-19 13:13:14,843 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip', '9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip', 'AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:13:14,857 - The files patterns: C:/python_work/folder_zip/output\20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:13:14,860 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:13:14,863 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:13:14,865 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank_20211202.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:15:18,222 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:15:18,227 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,229 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,232 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,234 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,237 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,239 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,241 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:15:18,244 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,246 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,248 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,251 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,254 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,256 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,258 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:15:18,261 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,263 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,266 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,268 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,270 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,271 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,272 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:15:18,276 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,278 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,281 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,283 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,285 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,287 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,289 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,290 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,292 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,295 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,296 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,299 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,300 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,302 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,303 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,305 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,307 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,309 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,311 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,313 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,316 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:15:18,317 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202 is being prepared for zipping
+2021-12-19 13:16:19,167 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:16:19,171 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,173 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,176 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,178 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,180 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,183 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,185 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202
+2021-12-19 13:16:19,188 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,191 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,194 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,196 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,198 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,199 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,201 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202
+2021-12-19 13:16:19,204 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,207 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,210 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,212 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,213 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,215 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,217 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202
+2021-12-19 13:16:19,220 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,223 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,226 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,228 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,230 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,232 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,235 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,237 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,240 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,242 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,245 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,247 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,249 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,252 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,254 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,256 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,258 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,260 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,263 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,266 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,267 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202
+2021-12-19 13:16:19,270 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202_155959 is being prepared for zipping
+2021-12-19 13:16:19,272 - The files patterns: [] has been Zipped
+2021-12-19 13:16:19,273 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:16:19,275 - The files patterns: [] has been Zipped
+2021-12-19 13:16:19,275 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:16:19,277 - The files patterns: [] has been Zipped
+2021-12-19 13:16:19,277 - The files patterns: C://python_work//folder_zip//output//20211202_155959 is being prepared for zipping
+2021-12-19 13:16:19,279 - The files patterns: [] has been Zipped
+2021-12-19 13:16:19,323 - The files patterns: C:/python_work/folder_zip/output\20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:16:19,327 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:16:19,330 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:16:19,333 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:18:26,510 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:18:26,514 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,517 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,519 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,522 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,524 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,526 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,529 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:18:26,532 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,537 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,539 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,541 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,544 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,546 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,549 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:18:26,553 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,555 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,558 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,560 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,562 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,564 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,567 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:18:26,570 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,572 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,574 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,576 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,579 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,581 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,585 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,588 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,590 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,592 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,594 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,596 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,600 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,604 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,605 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,607 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,609 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,611 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,614 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,617 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,621 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:18:26,622 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202_155959 is being prepared for zipping
+2021-12-19 13:18:26,633 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 13:18:26,633 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:18:26,646 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:18:26,646 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:18:26,658 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:18:26,658 - The files patterns: C://python_work//folder_zip//output//20211202_155959 is being prepared for zipping
+2021-12-19 13:18:26,682 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip', '9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip', 'AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:18:26,686 - The files patterns: C:/python_work/folder_zip/output\20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:18:26,689 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:18:26,692 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:18:26,694 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:23:16,494 - name 
+3line Card management Limited_
+9 Payment Service Bank_
+AB Microfinance bank_
+, exist in C:/python_work/folder_zip/bank.txt
+2021-12-19 13:23:16,498 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,500 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,503 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,506 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,508 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,511 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,513 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//3line Card management Limited_20211202_155959
+2021-12-19 13:23:16,518 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,521 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,524 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,526 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,529 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,531 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,534 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959
+2021-12-19 13:23:16,536 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,540 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,542 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,544 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,546 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,549 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,551 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959
+2021-12-19 13:23:16,554 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,557 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,559 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,562 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,565 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,567 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,569 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,571 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,573 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,576 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,578 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,580 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,582 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,586 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,587 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,590 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,593 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,596 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,598 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,600 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,602 - The files patterns: Zipped soruce files is being moved to their individual Folders C://python_work//folder_zip//output//20211202_155959
+2021-12-19 13:23:16,603 - The files patterns: C://python_work//folder_zip//output//3line Card management Limited_20211202_155959 is being prepared for zipping
+2021-12-19 13:23:16,613 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip'] has been Zipped
+2021-12-19 13:23:16,613 - The files patterns: C://python_work//folder_zip//output//9 Payment Service Bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:23:16,621 - The files patterns: ['9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:23:16,621 - The files patterns: C://python_work//folder_zip//output//AB Microfinance bank_20211202_155959 is being prepared for zipping
+2021-12-19 13:23:16,632 - The files patterns: ['AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:23:16,633 - The files patterns: C://python_work//folder_zip//output//20211202_155959 is being prepared for zipping
+2021-12-19 13:23:16,653 - The files patterns: ['3line Card management Limited_20211127_155959.zip', '3line Card management Limited_20211128_155959.zip', '3line Card management Limited_20211129_155959.zip', '3line Card management Limited_20211130_155959.zip', '3line Card management Limited_20211201_155959.zip', '3line Card management Limited_20211202_155959.zip', '3line Card management Limited_20211203_155959.zip', '9 Payment Service Bank_20211127_155959.zip', '9 Payment Service Bank_20211128_155959.zip', '9 Payment Service Bank_20211129_155959.zip', '9 Payment Service Bank_20211130_155959.zip', '9 Payment Service Bank_20211201_155959.zip', '9 Payment Service Bank_20211202_155959.zip', '9 Payment Service Bank_20211203_155959.zip', 'AB Microfinance bank_20211127_155959.zip', 'AB Microfinance bank_20211128_155959.zip', 'AB Microfinance bank_20211129_155959.zip', 'AB Microfinance bank_20211130_155959.zip', 'AB Microfinance bank_20211201_155959.zip', 'AB Microfinance bank_20211202_155959.zip', 'AB Microfinance bank_20211203_155959.zip'] has been Zipped
+2021-12-19 13:23:16,656 - The files patterns: C:/python_work/folder_zip/output\20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:23:16,659 - The files patterns: C:/python_work/folder_zip/output\3line Card management Limited_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:23:16,661 - The files patterns: C:/python_work/folder_zip/output\9 Payment Service Bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
+2021-12-19 13:23:16,664 - The files patterns: C:/python_work/folder_zip/output\AB Microfinance bank_20211202_155959.zip has been moved to C:/python_work/folder_zip/zip
